@@ -7,6 +7,7 @@ FILES = \
 	$(LIB)(webCookie.o)		\
 	$(LIB)(webEntities.o)	\
 	$(LIB)(webFixHex.o)		\
+	$(LIB)(webFormFuncs.o)	\
 	$(LIB)(webFreeParms.o)	\
 	$(LIB)(webGetBrowser.o)	\
 	$(LIB)(webGetCommandLine.o)	\
@@ -15,8 +16,9 @@ FILES = \
 	$(LIB)(webGetOneEnv.o)	\
 	$(LIB)(webGetQuery.o)	\
 	$(LIB)(webGetStdin.o)	\
-	$(LIB)(webGetStdin.o)	\
 	$(LIB)(webInitParms.o)	\
+	$(LIB)(webJaavFuncs.o)	\
+	$(LIB)(webPageFuncs.o)	\
 	$(LIB)(webTrim.o)
 
 .SILENT:
