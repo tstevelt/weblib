@@ -160,6 +160,7 @@ void webIncludeJava ( char *JavaScriptFile , char *Version );
 
 /* webPageFuncs.c */
 void webStartHead ( WEBPARMS *ptrWebParms );
+void webHeadToBody ( WEBPARMS *ptrWebParms );
 void webEndPage ( void );
 
 /* webEntities.c */
