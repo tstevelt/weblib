@@ -3,7 +3,7 @@
 	Author  : Silver Hammer Software LLC
 	Author  : Tom Stevelt
 	Date    : Nov 2020
-	Synopsis: progname
+	Synopsis: Convert hex from apache it ascii characters
 	Return  : 
 
 	Who		Date		Modification

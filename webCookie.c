@@ -143,10 +143,6 @@ int webMakeCookie ( char *CookieString, int MaxLength, COOKIE_RECORD *CookieReco
 #ifdef DEBUG
 		fprintf ( stderr, "CookieString = %s\n", CookieString );
 #endif
-	/*--------------------------------------------------------------------
-	xxx	this was in my old webCookie.c, but is not in Victory's version.
-	xxx	strcat ( CookieString, " HttpOnly;" );
-	--------------------------------------------------------------------*/
 
 	return ( 0 );
 }
